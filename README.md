@@ -16,4 +16,4 @@ The questions I asked myself for this project were:
 * calendar_seattle.csv: ~ 1y of data for Seattle AirBnB. Includes price for a day and boolean whether the apartment is available
 
 ## Results
-Summary of my results can be found on this post: 
+Summary of my results can be found on this [link](https://medium.com/p/b504a4d17806/edit)
